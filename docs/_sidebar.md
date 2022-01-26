@@ -4,8 +4,8 @@
 
   - [01 - TiDB 数据库架构概述](lesson_01.md)
   - [02 - TiDB Server](lesson_02.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [03 - TiKV](lesson_03.md)
+  - [04 - PD](lesson_04.md)
 
 - module 2: TiDB 数据库 schema 设计
 
