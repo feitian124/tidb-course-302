@@ -9,7 +9,7 @@
 
 - module 2: TiDB 数据库 schema 设计
 
-  - [Deploy](deploy.md)
+  - [05 - TiDB 数据库 SQL 执行流程](lesson_05.md)
   - [Helpers](helpers.md)
   - [Vue compatibility](vue.md)
   - [CDN](cdn.md)
