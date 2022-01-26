@@ -18,6 +18,6 @@
 
 ![tiflash 架构图](_images/lesson_01/tiflash.png)
 
-### 课堂小测验
+## 课堂小测验
 
 ![课堂小测验](_images/lesson_01/questions.png)

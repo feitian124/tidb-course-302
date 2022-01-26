@@ -3,7 +3,7 @@
 - module 1: 深入 tidb 体系结构
 
   - [01 - TiDB 数据库架构概述](lesson_01.md)
-  - [Writing more pages](more-pages.md)
+  - [02 - TiDB Server](lesson_02.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
